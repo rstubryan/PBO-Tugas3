@@ -63,7 +63,7 @@ public class Mahasiswa {
         else if(getNilai()>=0 && getNilai()<=49){
             return "E";
         }
-        return "Salah";
+        return "Inputan salah ";
     }
     
     public void infoMahasiswa(){
